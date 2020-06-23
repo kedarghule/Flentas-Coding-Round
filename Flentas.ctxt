@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Flentas
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ assign()
+comment3.params=pattern
+comment3.target=int\ find_product(java.lang.String)
+comment4.params=pattern\ text
+comment4.target=boolean\ check_subs(java.lang.String,\ java.lang.String)
+numComments=5
